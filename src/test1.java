@@ -12,5 +12,6 @@ public class test1 {
     public static void  method(int i)
     {
         System.out.println(i);
+        System.out.println(i);
     }
 }
