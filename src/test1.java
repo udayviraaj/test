@@ -6,6 +6,7 @@ public class test1 {
         System.out.println("this the first project importing to git repository");
         int i = 10;
         method(i);
+        System.out.println("this is the 3rd line in the code wridden");
 
     }
 
